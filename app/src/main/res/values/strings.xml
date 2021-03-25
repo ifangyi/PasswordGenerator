@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">密码生成器</string>
+    <string-array name="password_spinner">
+        <item>随机密码</item>
+        <item>PIN</item>
+    </string-array>
+</resources>
